@@ -1,0 +1,10 @@
+C:\Users\Stylesheet.io\source\repos\G Calculator\G Calculator\obj\Debug\G Calculator.csprojAssemblyReference.cache
+C:\Users\Stylesheet.io\source\repos\G Calculator\G Calculator\obj\Debug\G_Calculator.Form1.resources
+C:\Users\Stylesheet.io\source\repos\G Calculator\G Calculator\obj\Debug\G_Calculator.Properties.Resources.resources
+C:\Users\Stylesheet.io\source\repos\G Calculator\G Calculator\obj\Debug\G Calculator.csproj.GenerateResource.cache
+C:\Users\Stylesheet.io\source\repos\G Calculator\G Calculator\obj\Debug\G Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stylesheet.io\source\repos\G Calculator\G Calculator\bin\Debug\G Calculator.exe.config
+C:\Users\Stylesheet.io\source\repos\G Calculator\G Calculator\bin\Debug\G Calculator.exe
+C:\Users\Stylesheet.io\source\repos\G Calculator\G Calculator\bin\Debug\G Calculator.pdb
+C:\Users\Stylesheet.io\source\repos\G Calculator\G Calculator\obj\Debug\G Calculator.exe
+C:\Users\Stylesheet.io\source\repos\G Calculator\G Calculator\obj\Debug\G Calculator.pdb
